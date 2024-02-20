@@ -26,10 +26,3 @@ This project takes the complexity out of deploying a Three-Tier Architecture on 
 
 
 
-## Contributions
-
-Feel free to contribute and adapt this project to suit your needs. We welcome your ideas and improvements.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
